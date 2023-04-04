@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mufaddalmw
 - 👀 I’m interested in web development technologies, specially javascript technogies.
 - 🌱 I’m currently learning NodeJS, javascript testing frameworks, typescript etc.
-- 💞️ I’m looking to collaborate on javascript technogies.
+- 💞️ I’m looking to collaborate on javascript technologies.
 - 📫 How to reach me - mufaddal.motorwala@gmail.com
 
 <!---
